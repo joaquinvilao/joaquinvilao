@@ -1,5 +1,5 @@
 ## Hey there 👋
-
+---
 I’m Joaquin, a software engineer based in Chile, Concepción.
 
 I mostly work on frontend stuff — React, TypeScript, Tailwind, and a bit of animation with Framer Motion.
