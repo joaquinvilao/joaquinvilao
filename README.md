@@ -13,14 +13,14 @@ This is a fresh profile where I’ll be uploading some smaller projects, experim
 ---
 
 ### **Tools & Tech**
-- React, TypeScript, Tailwind  
-- Framer Motion for animations  
-- Figma, Apple Notes, Procreate  
+- React, TypeScript, Tailwind  EJEMPLOS!
+- Framer Motion for animations  EJEMPLOS!
+- Figma, Apple Notes, Procreate  EJEMPLOS!
 
 ---
 
 ### **A Bit About Me**
-- 🐈‍⬛ I have two cats  
-- ☕ Not a coffee or tea person  
-- 🎌 Into anime — Demon Slayer is a favorite  
-- 🧩 I like building things that are simple, useful, and easy to understand  
+- ☀️ I enjoy simple things: sports, fresh air, and good moments
+- 🏂 Snowboard & football fan
+- 🧠 I enjoy solving LeetCode problems on my YouTube channel
+- 🎧 Code. Music. Repeat.
