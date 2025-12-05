@@ -17,7 +17,9 @@ I’m Joaquin, a software engineer based in Chile
 
 ### **A Bit About Me**
 
-☀️ I enjoy simple things: sports, fresh air, and good moments
-🏂 Snowboard & football fan
-🧠 I enjoy solving LeetCode problems on my YouTube channel
-🎧 Code. Music. Repeat.
+<!--
+- ☀️ I enjoy simple things: sports, fresh air, and good moments
+- 🏂 Snowboard & football fan
+- 🧠 I enjoy solving LeetCode problems on my YouTube channel
+- 🎧 Code. Music. Repeat.
+-->
