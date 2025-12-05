@@ -10,7 +10,7 @@ I also use Figma for UI design and Procreate when I want to sketch ideas.
 
 This is a fresh profile where I’ll be uploading some smaller projects, experiments, and things I’m currently working on. Everything here is built from scratch, no copypaste templates.
 
----
+-
 
 ### **💻 Tech Stack:**
 
@@ -18,10 +18,6 @@ This is a fresh profile where I’ll be uploading some smaller projects, experim
 <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/b82c08a6-ff10-469e-8f3b-5d6a602cab20" />
 <img width="93" height="28" alt="image" src="https://github.com/user-attachments/assets/c005ce8c-c9b3-4956-a809-ce4e605b894b" />
 <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/61f178cd-0f6b-4aeb-9701-051d31275ce0" />
-
-- React, TypeScript, Tailwind  EJEMPLOS!
-- Framer Motion for animations  EJEMPLOS!
-- Figma, Apple Notes, Procreate  EJEMPLOS!
 
 ---
 
