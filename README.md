@@ -4,7 +4,7 @@
 
 I’m Joaquin, a software engineer based in Chile
 
-[---](https://www.youtube.com/watch?v=0fYi8SGA20k)
+______________________________________________________
 
 ### **💻 Tech Stack:**
 
