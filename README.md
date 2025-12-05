@@ -4,7 +4,7 @@
 
 I’m Joaquin, a software engineer based in Chile
 
-______________________________________________________
+---
 
 ### **💻 Tech Stack:**
 
