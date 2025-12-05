@@ -12,7 +12,9 @@ This is a fresh profile where I’ll be uploading some smaller projects, experim
 
 ---
 
-### **Tools & Tech**
+### **💻 Tech Stack:**
+<img width="93" height="28" alt="image" src="https://github.com/user-attachments/assets/c005ce8c-c9b3-4956-a809-ce4e605b894b" />
+
 - React, TypeScript, Tailwind  EJEMPLOS!
 - Framer Motion for animations  EJEMPLOS!
 - Figma, Apple Notes, Procreate  EJEMPLOS!
