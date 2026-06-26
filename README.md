@@ -1,8 +1,8 @@
 ---
 
-### Hey there 👋
+### Hey 👋
 
-I’m Joaquin, a software engineer based in Chile
+Joaquin,
 
 ---
 
@@ -35,8 +35,8 @@ I’m Joaquin, a software engineer based in Chile
 ### **A Bit About Me**
 
 <ul style="list-style:none;">
-  <li>🌤️ I enjoy simple things: sports, fresh air, and good moments</li>
-  <li>🏂 Snowboard & football fan</li>
-  <li>🧠 I enjoy solving LeetCode problems on my YouTube channel</li>
-  <li>🎧 Code. Music. Repeat.</li>
+  <li>🌤️ </li>
+  <li>🏂 </li>  
+  <li>🧠 </li>
+  <li>🎧 .</li>
 </ul>
